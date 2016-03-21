@@ -20,7 +20,7 @@ enum ZodiacType: Int {
 }
 
 enum AroundType: Int {
-    case Chlid = 12
+    case Child = 12
     case Fresh = 24
     case Prime = 36
     case Middle = 48
